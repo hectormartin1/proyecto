@@ -1,0 +1,51 @@
+
+
+
+	table, tr, td{				 /*estilo de la tabla y el fondo de la pagina*/
+		width: 800px;
+		height: 50px;
+		background-color: purple;
+		background: orange;
+		border:2px solid black;
+	
+		border-radius:4px;
+		padding:5px;
+	}
+	body{
+		background-color: purple;
+	
+		font-size:12px;
+	}
+	.dias{				 /*estilo para los dias*/
+		color:blue;
+		background-color: lightGray;
+	}
+	
+		
+.física{				  /*estilo para el fondo de cada asignatura*/
+	background-color:blue;
+}
+.matemáticas{
+	background-color:blue;
+}
+.Lengua{
+	background-color:blue;
+}
+.Tecnología{
+	background-color:blue;
+}
+.Dibujo{
+	background-color:blue;
+}
+.Inglés{
+	background-color:blue
+}
+.TIC{
+	background-color:blue;
+}
+.Historia{
+	background-color:blue;
+	font-size:10px;
+}
+	
+	
